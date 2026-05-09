@@ -1,5 +1,11 @@
 # C Programming Archive (ID)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Language: C](https://img.shields.io/badge/language-C-blue.svg)
+![Compiler: GCC](https://img.shields.io/badge/compiler-GCC%2015.2.0-green.svg)
+![Repo Size](https://img.shields.io/github/repo-size/rzlnhd/c-programming-archive-id)
+![Last Commit](https://img.shields.io/github/last-commit/rzlnhd/c-programming-archive-id)
+
 A collection of C programs written during my college years, covering **fundamental data structures, algorithms, and basic programming exercises**.  
 All file names and most program interfaces are in **Indonesian**, reflecting the original coursework.
 
